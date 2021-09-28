@@ -1,5 +1,5 @@
 # Calculator-using-java-language-with-gui-interface
-This project is develop using java language with java jfram gui interface.
+This project was developed using Java language with Java Jframe GUI interface.
 # Language
 Java
 # Interface
